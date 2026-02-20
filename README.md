@@ -72,7 +72,6 @@ ecommerce-analytics-ml/
 ├── data/
 ├── notebooks/
 ├── sql/
-├── src/
 ├── dashboard/
 ├── presentation/
 └── README.md
